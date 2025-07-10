@@ -1,7 +1,7 @@
 # D606 – Data Science Capstone
 
 ## 📘 Course Overview  
-This capstone course integrated the full data science lifecycle to solve a real-world business problem using machine learning. Students selected a research question, prepared and analyzed data, trained and evaluated models, and communicated insights through technical documentation and a final presentation. The project emphasized predictive modeling, data storytelling, and applying technical skills to support decision-making.
+This capstone course integrated the full data science lifecycle to solve a real-world business problem using machine learning. I selected a research question, prepared and analyzed data, trained and evaluated models, and communicated insights through technical documentation and a final presentation. The project emphasized predictive modeling, data storytelling, and applying technical skills to support decision-making.
 
 ---
 
