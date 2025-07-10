@@ -1,7 +1,7 @@
 # D603 – Machine Learning
 
 ## 📘 Course Overview
-This course focused on applying **supervised**, **unsupervised**, and **time series modeling** techniques to real-world datasets to extract patterns and inform business decisions. Students learned to evaluate multiple model types (classification, clustering, forecasting), measure model performance, and justify model selection based on business needs and accuracy metrics.
+This course focused on applying **supervised**, **unsupervised**, and **time series modeling** techniques to real-world datasets to extract patterns and inform business decisions. Student learned to evaluate multiple model types (classification, clustering, forecasting), measure model performance, and justify model selection based on business needs and accuracy metrics.
 
 ---
 
