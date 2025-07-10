@@ -33,7 +33,8 @@ This course focused on **communicating data insights effectively** to both techn
 📄 Files:
 - `D601_Task1 (1).pdf`
 - `D601_Task1A (3).twbx`  
-🔗 [Interactive Dashboard (Tableau Public)]([https://public.tableau.com/views/D601_Task1A/Dashboard1](https://public.tableau.com/app/profile/keniyah.chestnut/viz/D601_Task1A/Dashboard1))
+🔗 [Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/keniyah.chestnut/viz/D601_Task1A/Dashboard1)
+
 
 ---
 
