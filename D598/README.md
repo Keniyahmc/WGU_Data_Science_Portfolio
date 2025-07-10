@@ -8,15 +8,13 @@ This course develops algorithmic thinking and hands-on programming skills using 
 ## 🎯 Competencies Demonstrated
 - Documented the components of complex programming tasks
 - Integrated syntax, control structures, and modular code
-- Performed data acquisition and organization using Python and R
+- Performed data acquisition and organization using Python 
 
 ---
 
 ## 🛠 Tools & Technologies Used
 - Python (pandas, matplotlib)
-- R (dplyr, ggplot2)
 - Jupyter Notebook
-- RStudio
 
 ---
 
