@@ -51,6 +51,4 @@ Explained the code implementation step-by-step, including how it matched the pse
 - Created custom visualizations to communicate insights
 - Applied best practices in flow control, documentation, and error handling
 
----
 
-Let me know when you're ready to move on to D599 or if you'd like to clean up your repository folder names next!
