@@ -39,6 +39,3 @@ This course builds proficiency in both **relational** and **non-relational** dat
 - Practiced converting relational models into non-relational equivalents based on use case
 - Strengthened understanding of database design trade-offs in scalability, consistency, and complexity
 
----
-
-Let me know when you're ready to start filling in Task 1 or Task 2 and I’ll help you summarize the content or clean up your documentation!
